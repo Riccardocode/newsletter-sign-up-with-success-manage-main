@@ -80,6 +80,7 @@ body{
 
 .invalid-email{
     border: 1px solid red !important;
+    background-color: rgba(255, 103, 66, 0.3);;
     color: red;
 }
 
